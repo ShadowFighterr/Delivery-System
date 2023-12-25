@@ -1,0 +1,7 @@
+By default everything is private.
+Acess modifiers: Public, private, protected.
+Incapsulation: set, get. (void setName).
+Abstraction: makes it look simple and manages the difficulty hiding them, 
+Inheritance: 
+
+Constructor must: be public, must refer to itself, not have return type.
